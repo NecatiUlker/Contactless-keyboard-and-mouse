@@ -1,8 +1,0 @@
-path: C:\Users\Legion\Desktop\ASL\data\asl_dataset
-
-train: images/train # relative to path
-val: images/val # relative to path
-test: images/test # relative to path
-
-# Class Names
-names: ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]
